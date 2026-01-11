@@ -1,0 +1,7 @@
+{
+  "name": "StudyCapture AI - Exam Assistant",
+  "description": "A smart assistant to solve exam questions from simulators, providing detailed explanations and organizing them for NotebookLM ingestion.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
